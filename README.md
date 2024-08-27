@@ -1,4 +1,13 @@
-### Hi there 👋
+Gustavo Moura
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UniAmerica Descomplica
+
+💻 Apaixonado por tecnologia, com conhecimentos em:
+
+- Angular
+- JavaScript
+- C
+- Banco de dados
+🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento.
 
 <!--
 **Guhlm/Guhlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
