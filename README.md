@@ -7,6 +7,7 @@ Gustavo Moura
 - JavaScript
 - C
 - Banco de dados
+- Java SpringBoot
 🚀 Sempre em busca de novos desafios e oportunidades para crescer na área de desenvolvimento.
 
 <!--
