@@ -1,6 +1,5 @@
 Gustavo Moura
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UniAmerica Descomplica
-
 💻 Apaixonado por tecnologia, com conhecimentos em:
 
 - Angular
